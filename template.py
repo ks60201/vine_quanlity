@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO ,format='%(asctime)s - %(message)s')
 
-project_name= "Vine_quanlit_ml"
+project_name= "Vine_quanlity_ml"
 
 
 list_of_files = [
