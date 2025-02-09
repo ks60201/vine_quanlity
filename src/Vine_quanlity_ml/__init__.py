@@ -18,4 +18,4 @@ logging.basicConfig(
     ]
 )
 
-logger= logging.getLogger("Vine_quanlity_mlLogger")
+logger= logging.getLogger("Vine_quality_mlLogger")
